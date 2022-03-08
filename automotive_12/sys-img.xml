@@ -39,7 +39,7 @@
 				<complete>
 					<size>833431757</size>
 					<checksum>12e28a96794839b313149c8e3a6c2a3f7c7b633c</checksum>
-					<url>x86_64.zip</url>
+					<url>x86_64.zip?raw=true</url>
 				</complete>
 			</archive>
 		</archives>
