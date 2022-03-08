@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<sys-img:sdk-sys-img xmlns:sys-img="http://schemas.android.com/sdk/android/repo/sys-img2/01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<!--Generated on 2021-09-07 18:04:24.923146 with ADRT.-->
+	<license id="android-sdk-license" type="text">PS License - Only for Internal use !!!</license>
+	<channel id="channel-0">stable</channel>
+	<channel id="channel-1">beta</channel>
+	<channel id="channel-2">dev</channel>
+	<channel id="channel-3">canary</channel>
+	<remotePackage path="system-images;android-31;android-automotive;x86_64">
+		<!--Generated from bid:7417002, branch:rvc-car-release-x86_64-playstore-->
+		<type-details xsi:type="sys-img:sysImgDetailsType">
+			<api-level>31</api-level>
+			<tag>
+				<id>ps_car_automotive_emulator_12</id>
+				<display>PS Automotive 12 car emulator</display>
+			</tag>
+			<vendor>
+				<id>ps</id>
+				<display>PS Inc.</display>
+			</vendor>
+			<abi>x86_64</abi>
+		</type-details>
+		<revision>
+			<major>1</major>
+		</revision>
+		<display-name>Ps automotive 12 car emulator</display-name>
+		<uses-license ref="android-sdk-license"/>
+		<dependencies>
+			<dependency path="emulator">
+				<min-revision>
+					<major>31</major>
+					<minor>0</minor>
+					<micro>0</micro>
+				</min-revision>
+			</dependency>
+		</dependencies>
+		<archives>
+			<archive>
+				<complete>
+					<size>833431757</size>
+					<checksum>12e28a96794839b313149c8e3a6c2a3f7c7b633c</checksum>
+					<url>x86_64.zip</url>
+				</complete>
+			</archive>
+		</archives>
+	</remotePackage>
+</sys-img:sdk-sys-img>
