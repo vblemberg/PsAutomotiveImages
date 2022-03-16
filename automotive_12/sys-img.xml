@@ -21,7 +21,7 @@
 			<abi>x86_64</abi>
 		</type-details>
 		<revision>
-			<major>1</major>
+			<major>2</major>
 		</revision>
 		<display-name>Ps automotive 12 car emulator</display-name>
 		<uses-license ref="android-sdk-license"/>
