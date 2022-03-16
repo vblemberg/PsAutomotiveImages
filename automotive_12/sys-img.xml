@@ -21,7 +21,7 @@
 			<abi>x86_64</abi>
 		</type-details>
 		<revision>
-			<major>2</major>
+			<major>3</major>
 		</revision>
 		<display-name>Ps automotive 12 car emulator</display-name>
 		<uses-license ref="android-sdk-license"/>
@@ -37,8 +37,8 @@
 		<archives>
 			<archive>
 				<complete>
-					<size>833431757</size>
-					<checksum>12e28a96794839b313149c8e3a6c2a3f7c7b633c</checksum>
+					<size>833421004</size>
+					<checksum>4d0eac247933576244f2bc58969a6fc18b0cffff</checksum>
 					<url>x86_64.zip?raw=true</url>
 				</complete>
 			</archive>
